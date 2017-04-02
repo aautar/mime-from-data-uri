@@ -1,6 +1,6 @@
 {
   "name": "mime-from-data-uri",
-  "version": "1.0.0",
+  "version": "1.0.0-r2",
   "main": "src/main.js",
   "repository": "https://github.com/aautar/mime-from-data-uri",
   "author": "Avishkar Autar <aautar@digital-radiation.com>",
